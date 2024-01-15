@@ -19,9 +19,12 @@ Feel free to navigate through my website, where you'll discover not only fronten
 <a href="https://www.youtube.com/channel/UCKNDC6ymPscd0PPdEGr8eJw" target="_blank">Youtube</a>
 
 
-Thank you for being here, and I hope my piece of the internet world brings you inspiration and enjoyment. Enjoy the exploration!
+Thank you for being here, and I hope my piece of the internet world brings you inspiration and enjoyment. 
+
+Enjoy the exploration!
 
 Best,
+
 Łukasz Szymański
 
 
