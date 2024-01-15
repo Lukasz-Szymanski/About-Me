@@ -13,7 +13,9 @@ Feel free to navigate through my website, where you'll discover not only fronten
 
 ## Connect with Me 
 <a href="https://szymanski.netlify.app" target="_blank">Portfolio Website</a>
+
 <a href="https://www.linkedin.com/in/lukasz-szymanski94/" target="_blank">LinkedIn</a>
+
 <a href="https://www.youtube.com/channel/UCKNDC6ymPscd0PPdEGr8eJw" target="_blank">Youtube</a>
 
 
