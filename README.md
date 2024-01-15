@@ -1,5 +1,7 @@
 # Łukasz Szymański 
-Welcome to my GitHub profile! I'm Łukasz Szymański, a self-taught frontend enthusiast with a passion for coding, classical music, and video production. This space is a reflection of my creative journey, where I merge the worlds of technology, music, and visual storytelling.
+Welcome to my GitHub profile! 
+
+I'm Łukasz Szymański, a self-taught frontend enthusiast with a passion for coding, classical music, and video production. This space is a reflection of my creative journey, where I merge the worlds of technology, music, and visual storytelling.
 
 ## About Me
 I am a professional classical musician whose love for sound seamlessly blends with the immersive realm of coding. The harmony, precision, and creativity I express in music find their reflection in every line of code I write. Coding is not just a job for me; it's a passion that allows me to bridge these two seemingly different worlds.
