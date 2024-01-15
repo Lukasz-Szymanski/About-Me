@@ -11,12 +11,11 @@ When I'm not exploring the latest UI/UX trends or experimenting with new librari
 ## Explore My World
 Feel free to navigate through my website, where you'll discover not only frontend projects but also the sounds of music and emotions captured in cinematic frames. This GitHub repository is a showcase of my coding projects, reflecting my dedication to creativity and innovation in the digital space.
 
-## Connect with Me
-[Portfolio Website](https://szymanski.netlify.app) 
+## Connect with Me 
+<a href="https://szymanski.netlify.app" target="_blank">Portfolio Website</a>
+<a href="https://www.linkedin.com/in/lukasz-szymanski94/" target="_blank">LinkedIn</a>
+<a href="https://www.youtube.com/channel/UCKNDC6ymPscd0PPdEGr8eJw" target="_blank">Youtube</a>
 
-[Youtube](https://www.youtube.com/channel/UCKNDC6ymPscd0PPdEGr8eJw)
-
-[LinkedIn](https://www.linkedin.com/in/lukasz-szymanski94/)
 
 Thank you for being here, and I hope my piece of the internet world brings you inspiration and enjoyment. Enjoy the exploration!
 
