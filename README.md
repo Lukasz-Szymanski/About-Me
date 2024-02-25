@@ -1,4 +1,4 @@
-# Łukasz Szymański 
+# Hello, I'm Łukasz Szymański 
 Welcome to my GitHub profile! 
 
 I'm Łukasz Szymański, a self-taught frontend enthusiast with a passion for coding, classical music, and video production. This space is a reflection of my creative journey, where I merge the worlds of technology, music, and visual storytelling.
