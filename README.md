@@ -25,7 +25,7 @@ Enjoy the exploration!
 
 Best,
 
-Łukasz Szymański
+Łukasz
 
 
 
